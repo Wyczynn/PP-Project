@@ -1,13 +1,13 @@
 # PP-Project
-##Gra: Zombiefication
+## Gra: Zombiefication
 
-##JAK URUCHOMIĆ GRĘ?
+## JAK URUCHOMIĆ GRĘ?
 
 Aby włączyć grę należy pobrać folder zip a następnie wyodrębnić pliki. W owym folderze znajduje się plik wykonawczy (.exe) o nazwie TurnedBasedMap, który należy uruchomić.
 
 Aby zamknąć grę należy użyć skrótu klawiszowego Alt+F4 :D
 
-##OPIS GRY:
+## OPIS GRY:
 
 Na prostokątnej mapie o wymiarach 5x8 zostaje umieszczona postać gracza w punkcie startowym oraz postacie przeciwników – zombie.
 
